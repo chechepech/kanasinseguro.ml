@@ -1,0 +1,19 @@
+/* TEAM */
+Your title: Cheche Pech
+Site: bboy_rys@yahoo.com.mx
+facebook: chechepech
+linkedin: chechepech
+github: chechepech
+youtube: chechepech
+twitter: chechepech
+instagram: cheche_pech
+Location: Yucatan, Mexico
+
+/* THANKS */
+Name: https://kanasinseguro.ml
+
+/* SITE */
+Last update: 2020/06/15
+Standards: HTML5, CSS3, JavaScript
+Components: ResetCSS, Modular Scalable
+Software: Sublime Text 3
