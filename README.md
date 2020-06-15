@@ -14,4 +14,9 @@
 
 ![Image of One Page Website - Kanasin Libre y Soberano](onepage-website.png)
 
-:beers: [Cheche Pech](https://www.facebook.com/chechepech).
+:beers: [linkedin](https://www.linkedin.com/in/chechepech/)
+:beers: [facebook](https://www.facebook/chechepech)
+:beers: [twitter](https://twitter.com/chechepech)
+:beers: [instagram](https://www.instagram.com/cheche_pech)
+:beers: [github](https://github.com/chechepech)
+:beers: [youtube](https://www.youtube.com/c/chechepech)
