@@ -12,11 +12,11 @@
 
 > Link: https://kanasinseguro.ml
 
-![Image of One Page Website - Kanasin Libre y Soberano](onepage-website.png)
+![Image of One Page Website - Kanasin Libre y Soberano](Kanasin_Municipio_Libre_y_Soberano.png)
 
-:beers: [linkedin](https://www.linkedin.com/in/chechepech/)
-:beers: [facebook](https://www.facebook/chechepech)
-:beers: [twitter](https://twitter.com/chechepech)
-:beers: [instagram](https://www.instagram.com/cheche_pech)
-:beers: [github](https://github.com/chechepech)
-:beers: [youtube](https://www.youtube.com/c/chechepech)
+> :beers: [linkedin](https://www.linkedin.com/in/chechepech/)
+> :beers: [facebook](https://www.facebook/chechepech)
+> :beers: [twitter](https://twitter.com/chechepech)
+> :beers: [instagram](https://www.instagram.com/cheche_pech)
+> :beers: [github](https://github.com/chechepech)
+> :beers: [youtube](https://www.youtube.com/c/chechepech)
